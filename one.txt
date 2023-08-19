@@ -1,0 +1,2 @@
+SECOND COMMIT
+Familiarize yourself with essential Git commands like git add, git commit, git status, and git log.
