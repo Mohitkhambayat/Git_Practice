@@ -1,0 +1,2 @@
+Merge changes from one branch into another using git merge.
+
