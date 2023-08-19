@@ -1,0 +1,2 @@
+Create a new branch and switch between branches using git checkout
+
