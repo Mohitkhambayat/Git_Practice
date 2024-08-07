@@ -1,2 +1,3 @@
 Create a new branch and switch between branches using git checkout
 
+checking SCM POLL in JENKINS
